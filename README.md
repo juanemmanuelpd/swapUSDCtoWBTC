@@ -1,4 +1,4 @@
-# Swap App
+# Swap App (USDC to WBTC)
 ## Overview 🪙
 An app for swapping tokens, in this case USDC -> WBTC. Forking the Arbitrum network.
 ## Features 📃
